@@ -13,7 +13,8 @@ class Song
   end
 end
     
-  Song.create = 
+  Song.create("Blueberry Faygo")
+  
   
 
 
