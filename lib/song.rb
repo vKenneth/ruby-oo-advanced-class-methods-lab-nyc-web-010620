@@ -12,6 +12,8 @@ class Song
     @@all << song
   end
     
+    song = Song.new_ny_name("The Middle")
+    song.name
 
 
 
