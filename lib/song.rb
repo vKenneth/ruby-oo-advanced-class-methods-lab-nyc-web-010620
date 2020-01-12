@@ -13,7 +13,7 @@ class Song
   end
 end
     
-  Song
+  Song.create = 
   
 
 
