@@ -11,10 +11,11 @@ class Song
     song.name = name
     @@all << song
   end
+end
     
     song = Song.new_ny_name("The Middle")
     song.create_by_name("The Middle")
-    
+  
 
 
 
