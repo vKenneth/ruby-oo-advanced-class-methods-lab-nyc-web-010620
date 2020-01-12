@@ -7,7 +7,7 @@ class Song
   end
 
   def self.create(name)
-    
+    Song
 
 
 
