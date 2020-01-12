@@ -14,6 +14,8 @@ class Song
 end
     
   Song.create_by_name("Blueberry Faygo")
+  Song.find_by_name("Blueberry Faygo")
+  
   
   
   
