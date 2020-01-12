@@ -13,7 +13,8 @@ class Song
   end
 end
     
-  Song.create("Blueberry Faygo")
+  Song.create_by_name("Blueberry Faygo")
+  
   
   
 
