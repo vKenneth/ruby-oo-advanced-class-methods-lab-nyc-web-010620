@@ -13,7 +13,8 @@ class Song
   end
     
     song = Song.new_ny_name("The Middle")
-    song.name
+    song.create_by_name("The Middle")
+    
 
 
 
