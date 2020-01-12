@@ -6,7 +6,8 @@ class Song
     @@all
   end
 
-  def self.create
+  def self.create(name)
+    
 
 
 
