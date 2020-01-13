@@ -41,25 +41,3 @@ end
   def self.destroy_all
     sefl.all.clear
   end
-    
-  
-  
-  
-  
-   
-  
-
-    
- 
-  
-  
- 
-  
-  
-  
-  
-  
-  
-
-
-
