@@ -30,7 +30,7 @@ end
   song_1 == song_2
   
   def self.alphabetical
-    self.all.
+    self.all.sort_by{|s| 
   
   
    
