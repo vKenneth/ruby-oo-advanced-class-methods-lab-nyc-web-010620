@@ -26,7 +26,10 @@ end
   end
   
   song_1 = Song.find_or_create_by_name("Blueberry Faygo")
-  song_2 = Song.find_or_create_by_name("Live this Wild")
+  song_2 = Song.find_or_create_by_name("Live This Wild")
+  song_1 == song_2
+  
+  Song.alphabetical
   
   
    
