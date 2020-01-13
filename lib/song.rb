@@ -13,7 +13,7 @@ class Song
   end
 end
     
-   def song = Song.create
+   def song = Song.create"\n"
     Song.all.include?(song)
   end
   
