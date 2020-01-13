@@ -13,6 +13,19 @@ class Song
   end
 end
     
+   def song = Song.create
+    Song.all.include?(song)
+  end
+  
+  def song = Song.new_by_name("Blueberry Faygo")
+    song.name
+  end
+  
+  def song = Song.create_by_name("Blueberry Faygo")
+    Song.all.include?(song)
+  end
+  
+  def Blueberry_Faygo 
    
   
 
