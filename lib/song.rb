@@ -29,7 +29,8 @@ end
   song_2 = Song.find_or_create_by_name("Live This Wild")
   song_1 == song_2
   
-  def self.sort
+  def self.alphabetical
+    
   
   
    
