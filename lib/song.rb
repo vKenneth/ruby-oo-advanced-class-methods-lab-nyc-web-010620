@@ -101,11 +101,7 @@ end
   end
 end
     
-  def song = Song.create
-    Song.all.include?(song)
-  end
-  
-  def =
+ 
   
   
  
