@@ -23,11 +23,7 @@ end
   
   song_1 == song_2
   
-  song = Song.new_from_filename("Lil Mosey - Blueberry Faygo.mp3")
-  song.name
-  song.artist_name
-  
-  Song.create_from_filename
+ Song.alphabetical
   
   
   
