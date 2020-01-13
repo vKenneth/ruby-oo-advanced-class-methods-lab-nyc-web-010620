@@ -33,6 +33,14 @@ end
     self.all.sort_by{|s| s.name}
   end
   
+  def Song.new_from_filename("Lil Mosey - Blueberry Faygo.mp3")
+    song.name
+    song.artist_name
+  end
+  
+  
+    
+  
   
   
   
