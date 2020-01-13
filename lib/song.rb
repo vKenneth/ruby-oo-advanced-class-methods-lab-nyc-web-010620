@@ -17,7 +17,7 @@ end
     Song.all.include?(song)
   end
   
-  def song = Song.new_by_name("Blueberry Faygo")
+  def song "\n" Song.new_by_name("Blueberry Faygo")
     song.name
   end
   
