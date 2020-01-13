@@ -13,7 +13,7 @@ class Song
   end
 end
     
-  Song.create_by_name("Blueberry Faygo")
+   def create_by_name("Blueberry Faygo")
   Song.create_by_name("Playboi Carti Sunny")
   Song.find_by_name("Blueberry Faygo")
   Song.find_by_name("Playboi Carti Sunny")
