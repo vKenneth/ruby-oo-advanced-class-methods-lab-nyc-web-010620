@@ -38,7 +38,8 @@ end
     song.artist_name
   end
   
-  
+  def self.destroy_all
+    
     
   
   
