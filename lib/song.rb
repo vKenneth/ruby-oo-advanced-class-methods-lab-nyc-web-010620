@@ -23,6 +23,8 @@ end
   
   song_1 == song_2
   
+  song = Song.new
+  
   
   
   
