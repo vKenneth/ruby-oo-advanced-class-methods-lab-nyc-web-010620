@@ -39,7 +39,7 @@ end
   end
   
   def self.destroy_all
-    sefl.all_clear
+    sefl.all.clear
   end
     
   
