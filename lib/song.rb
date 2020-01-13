@@ -101,8 +101,13 @@ end
   end
 end
     
- song = Song.create
- Song.all.include?(song)
+  def song = Song.create
+    Song.all.include?(song)
+  end
+  
+  def =
+  
+  
  
   
   
