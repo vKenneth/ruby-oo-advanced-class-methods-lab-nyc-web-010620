@@ -23,7 +23,7 @@ end
   
   song_1 == song_2
   
-   Song.alphabetical
+   def self.alphabetical
   self.sort.all{|s| s.name}
  end
   
